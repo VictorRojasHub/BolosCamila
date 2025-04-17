@@ -8,12 +8,12 @@ import infantil from '../assets/Images/infantil.jpg';
 
 const bolos = [
   { id: 1, isTexto: true },
-  { id: 2, image: boloChc, title: "Bolo de Chocolate", description: "Delicioso e molhadinho, é o bolinho da camilinha" },
-  { id: 3, image: boloMo, title: "Bolo de Morango", description: "Com chantilly artesanal" },
-  { id: 4, image: doces, title: "Bolo de Cenoura", description: "Cobertura de chocolate" },
-  { id: 5, image: macaroni, title: "Bolo de Cenoura", description: "Cobertura de chocolate" },
-  { id: 6, image: infantil, title: "Bolo de Cenoura", description: "Cobertura de chocolate" },
-  // Adicione mais conforme quiser
+  { id: 2, image: boloChc, title: "Bolo de Chocolate", description: "Delicioso bolo de chocolate, feito com os melhores ingredientes e a receita secreta de ganache com chocolate do padre." },
+  { id: 3, image: boloMo, title: "Bolo de Morango", description: "Feito com morangos da fazenda e chantilly caseiro melhor sabor impossível!" },
+  { id: 4, image: doces, title: "Macaroni", description: "O clássico macaroni francês com um toque de baunilha inesquecível." },
+  { id: 5, image: macaroni, title: "Docinhos Diversos", description: "Confira a maior variedade de docinhos caseiros, diversos e saborosos" },
+  { id: 6, image: infantil, title: "Pasta Americana", description: "Faça sua festa conosco, docinhos personalizados de pasta americana." },
+  //lista de cards
 ];
 
 const GradeBolos = () => {
